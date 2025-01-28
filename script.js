@@ -26,7 +26,7 @@ resume2.addEventListener("click", openResume);
 
 function openResume() {
   window.open(
-    "https://drive.google.com/file/d/11dCwO1cDHWtOyq21i0wAwVdUcvnqGk6L/view?usp=sharing",
+    "c:\Users\OWAISE AHMED\Downloads\FSD RESUME.pdf",
     "_blank"
   );
 }
