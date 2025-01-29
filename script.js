@@ -26,7 +26,7 @@ resume2.addEventListener("click", openResume);
 
 function openResume() {
   window.open(
-    "https://drive.google.com/file/d/1_fleAhHDUr32OUL0-EyO-9HWJTyxr5ZW/view?usp=sharing",
+    "https://drive.google.com/file/d/1UQ9lvI_aKF5Sn4IinFe7C2jZAOXWjqZ0/view?usp=sharing",
     "_blank"
   );
 }
